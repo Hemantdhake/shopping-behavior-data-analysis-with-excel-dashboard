@@ -168,7 +168,7 @@ shopping-behavior-analysis/
 
 
 ## Contact : 
-Author: Hemant Dhake
-[LinkedIn](https://www.linkedin.com/in/hemant-dhake-4606a8301/)
+- Author: Hemant Dhake
+- 🔗[LinkedIn](https://www.linkedin.com/in/hemant-dhake-4606a8301/)
 
         

@@ -23,8 +23,9 @@ ENV/
 
 # Generated Output Files
 # (Ignore only heavy generated images)
+
 # outputs/plots/*.png
-outputs/plots/*.jpg
+# outputs/plots/*.jpg
 outputs/plots/*.jpeg
 outputs/plots/*.pdf
 
