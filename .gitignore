@@ -1,0 +1,53 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+.env
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Logs & Temporary Files
+*.log
+*.tmp
+*.bak
+*.swp
+*~
+
+
+# Generated Output Files
+# (Ignore only heavy generated images)
+outputs/plots/*.png
+outputs/plots/*.jpg
+outputs/plots/*.jpeg
+outputs/plots/*.pdf
+
+# ML Model Files (Future Use)
+*.pkl
+*.joblib
+*.onnx
+*.pt
+*.pth
+*.bin
+
+# IDE / Editor Files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS Files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Large Compressed File
+*.zip
+*.tar.gz
+*.7z
+*.rar
