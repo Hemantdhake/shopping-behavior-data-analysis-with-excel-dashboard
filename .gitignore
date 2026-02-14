@@ -18,6 +18,7 @@ ENV/
 *.bak
 *.swp
 *~
+~$*.xlsx
 
 
 # Generated Output Files

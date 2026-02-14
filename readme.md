@@ -161,7 +161,7 @@ shopping-behavior-analysis/
 
 ## Quick Links:
 
-- 📄 Dataset	`./dataset/shopping_behavior.csv`
+- 📄 Dataset	`./Dataset/shopping_behavior.csv`
 - 📓 Notebook	`./notebook/Analysis.ipynb`
 - 📊 Dashboard	`./dashboard/shopping_behavior_updated.xlsx`
 - 🧾 Requirements	`./requirements.txt`
